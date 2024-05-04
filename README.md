@@ -13,7 +13,7 @@ This project is a comprehensive solution for predicting YouTube video titles, mo
 
 ## Chat Interface
 
-![Chat Interface Screenshot](chat-interface.png)
+![Chat Interface Screenshot]
 
 <img width="1440" alt="Screenshot 2024-05-05 at 12 15 23 AM" src="https://github.com/krishpatel1529/SocialMediaAI-Dashboard/assets/93465623/f7193ecb-5415-46b2-9ab3-1d09be0aa6be">
 
